@@ -39,11 +39,11 @@ The system reads driver data from a text file and parses it using string streams
 Safe conversion functions are used to prevent runtime errors.
 Each driver is inserted into all relevant data structures simultaneously.
 <br>9. Program Flow<br>
-1. Load driver data from file.
-2. Store data into hash table, linked list, stack, and queue.
-3. Display menu options.
-4. Execute operations based on user input.
-5. Repeat until user exits.
+Load driver data from file.
+Store data into hash table, linked list, stack, and queue.
+Display menu options.
+Execute operations based on user input.
+Repeat until user exits.
 <br>10. Time Complexity Analysis<br>
 Insertion: O(1)
 Search: O(1) average
