@@ -1,0 +1,100 @@
+1001|Chloe Adams|66|19|8|1959|106 Cedar Blvd|Dallas|Dallas|Student|3|Vision impaired|6|4|2006|None
+1002|Ella Adams|63|28|4|1962|796 Oak St|Dallas|Dallas|Student|5|Fit|1|5|2014|Signal
+1003|Michael King|62|15|2|1964|735 Poplar St|Plano|Collin|Business|24|Vision impaired|18|9|2022|Signal
+1004|Samantha Martin|45|24|7|1980|181 Cherry Ln|Denton|Denton|Self-employed|6|Locomotor disability|16|4|2009|None
+1005|Hannah Hall|37|12|8|1988|464 Cherry Ln|Frisco|Collin|Student|5|Vision impaired|3|7|1991|Signal
+1006|Chloe Wright|30|28|4|1996|298 Walnut Rd|Plano|Collin|Private|19|Fit|4|10|2001|Speeding
+1007|Avery Lewis|39|13|8|1986|663 Birch St|Denton|Denton|Self-employed|3|Vision impaired|12|2|2009|Parking
+1008|Samantha Martin|51|6|3|1975|752 Maple Ave|Frisco|Collin|Business|30|Locomotor disability|19|9|1990|Parking
+1009|Grace Thomas|54|17|6|1972|555 Cherry Ln|Frisco|Collin|Business|12|Locomotor disability|12|10|2019|None
+1010|Olivia Lee|19|21|7|2006|869 Pine Rd|Frisco|Collin|Private|24|Locomotor disability|13|8|1991|Signal
+1011|Sarah Thompson|70|1|3|1956|853 Maple Ave|Denton|Denton|Business|5|Fit|5|4|2020|Signal
+1012|Jessica Hall|29|8|5|1996|797 Oak St|Dallas|Dallas|Student|30|Fit|18|6|2005|None
+1013|Rachel Harris|62|17|1|1964|222 Ash Ave|Plano|Collin|Self-employed|6|Locomotor disability|25|12|2014|Signal
+1014|Sarah King|31|9|11|1994|534 Cherry Ln|Plano|Collin|Government|4|Fit|7|10|2020|None
+1015|Matthew Jackson|23|7|10|2002|806 Poplar St|Dallas|Dallas|Private|12|Locomotor disability|23|9|2018|Signal
+1016|Michael Robinson|39|22|1|1987|76 Ash Ave|Denton|Denton|Government|9|Fit|8|12|2018|Speeding
+1017|Ashley Green|30|22|7|1996|997 Cherry Ln|Denton|Denton|Student|30|Locomotor disability|5|10|2012|Parking
+1018|Aaron Wright|33|23|1|1993|917 Walnut Rd|Dallas|Dallas|Government|12|Fit|25|4|2016|None
+1019|18|Chris Lewis|19|28|9|2007|429 Birch St|Frisco|Collin|Business|24|Locomotor disability|15|11|2011|Parking
+1020|Ella Adams|30|8|11|1996|681 Elm St|Dallas|Dallas|Business|19|Vision impaired|26|10|2015|Signal
+1021|Tyler Allen|19|21|9|2006|528 Pine Rd|Frisco|Collin|Business|22|Fit|17|8|2025|Speeding
+1022|Avery Rodriguez|71|18|10|1955|878 Pine Rd|Plano|Collin|Student|22|Vision impaired|9|6|1997|Signal
+1023|Zach Hall|66|8|12|1960|788 Walnut Rd|Frisco|Collin|Student|16|Fit|24|1|2005|None
+1024|Nathan Wright|20|1|2|2006|292 Ash Ave|Plano|Collin|Private|11|Vision impaired|14|1|2012|Speeding
+1025|Megan Davis|51|2|11|1974|616 Oak St|Dallas|Dallas|Private|27|Vision impaired|1|2|2009|None
+1026|Rachel Clark|43|25|4|1983|941 Oak St|Frisco|Collin|Private|1|Locomotor disability|5|6|2020|Parking
+1027|Rachel Walker|34|2|8|1991|97 Elm St|Plano|Collin|Private|21|Vision impaired|25|6|2005|None
+1028|Matthew Johnson|55|10|8|1970|77 Pine Rd|Frisco|Collin|Self-employed|8|Locomotor disability|1|1|2016|Speeding
+1029|John Hall|48|26|1|1978|113 Maple Ave|Plano|Collin|Self-employed|23|Vision impaired|18|2|2020|None
+1030|Michael Wright|70|20|8|1956|999 Cedar Blvd|Dallas|Dallas|Business|21|Locomotor disability|24|4|2022|Signal
+1031|Daniel Green|66|28|11|1960|378 Maple Ave|Plano|Collin|Self-employed|15|Locomotor disability|14|11|2003|Parking
+1032|Ashley Rodriguez|50|24|12|1976|525 Elm St|Dallas|Dallas|Self-employed|21|Fit|21|1|2003|Signal
+1033|Aaron Robinson|65|19|9|1961|711 Maple Ave|Dallas|Dallas|Self-employed|6|Fit|26|9|1998|Signal
+1034|Lauren Wright|49|7|2|1977|837 Oak St|Dallas|Dallas|Private|5|Vision impaired|13|3|1993|Parking
+1035|Zach Martinez|21|2|9|2005|66 Cedar Blvd|Dallas|Dallas|Business|10|Vision impaired|1|3|1993|Speeding
+1036|Avery Lewis|21|15|8|2005|2 Elm St|Denton|Denton|Government|26|Locomotor disability|17|8|2009|Speeding
+1037|Michael Wilson|60|17|8|1966|790 Elm St|Denton|Denton|Government|25|Locomotor disability|4|4|2013|Speeding
+1038|Nathan Wright|26|2|9|2000|910 Birch St|Plano|Collin|Private|9|Fit|7|6|2021|Speeding
+1039|Justin Taylor|48|13|2|1978|667 Birch St|Frisco|Collin|Business|5|Vision impaired|16|4|2013|None
+1040|Olivia Robinson|27|11|6|1999|731 Walnut Rd|Plano|Collin|Student|9|Vision impaired|8|6|2020|Parking
+1041|Nathan Anderson|26|17|12|2000|907 Cedar Blvd|Plano|Collin|Business|21|Locomotor disability|10|6|2016|Speeding
+1042|Lauren Jackson|71|23|6|1955|365 Oak St|Frisco|Collin|Government|14|Locomotor disability|3|4|2014|Parking
+1043|Brandon Walker|69|24|2|1957|457 Cedar Blvd|Plano|Collin|Self-employed|22|Fit|12|9|2012|Signal
+1044|Brandon Baker|23|6|1|2003|428 Cherry Ln|Plano|Collin|Student|2|Fit|26|12|1998|None
+1045|Michael King|51|9|10|1975|544 Walnut Rd|Frisco|Collin|Government|24|Locomotor disability|22|3|2003|Signal
+1046|John Martin|34|10|5|1992|647 Cherry Ln|Denton|Denton|Government|12|Locomotor disability|11|2|2022|None
+1047|Kevin Allen|63|3|6|1963|333 Birch St|Denton|Denton|Government|1|Vision impaired|27|6|2025|Parking
+1048|Joshua Lewis|19|23|8|2007|517 Maple Ave|Plano|Collin|Government|17|Vision impaired|20|8|2023|Signal
+1049|Aaron Thompson|21|26|7|2005|681 Maple Ave|Dallas|Dallas|Student|30|Fit|2|11|2002|None
+1050|Lauren Martin|37|14|2|1989|662 Cherry Ln|Denton|Denton|Government|16|Locomotor disability|28|4|2005|Signal
+1051|Kevin Martinez|59|15|7|1967|478 Poplar St|Denton|Denton|Business|21|Locomotor disability|3|9|2025|Speeding
+1052|Chloe Anderson|60|10|8|1966|65 Poplar St|Denton|Denton|Private|13|Vision impaired|2|4|2024|Signal
+1053|Lauren Taylor|53|20|8|1973|66 Pine Rd|Dallas|Dallas|Student|22|Vision impaired|5|9|1990|Signal
+1054|Avery Johnson|24|1|9|2002|577 Oak St|Denton|Denton|Private|19|Locomotor disability|10|4|1990|None
+1055|Matthew Clark|34|25|2|1992|708 Elm St|Frisco|Collin|Student|24|Fit|15|5|1999|None
+1056|Joshua Johnson|69|5|11|1956|786 Pine Rd|Denton|Denton|Business|21|Locomotor disability|23|12|2010|Parking
+1057|Joshua Brown|59|7|3|1967|566 Birch St|Frisco|Collin|Government|22|Fit|11|5|2010|Speeding
+1058|Rachel Thompson|52|18|10|1974|63 Cedar Blvd|Plano|Collin|Government|19|Fit|20|5|1992|Speeding
+1059|Amanda Martinez|65|27|1|1961|3 Poplar St|Denton|Denton|Government|16|Vision impaired|10|3|1994|Signal
+1060|Matthew Smith|47|12|6|1979|2 Poplar St|Frisco|Collin|Private|28|Locomotor disability|23|5|2005|None
+1061|Samantha Baker|68|22|2|1958|592 Poplar St|Frisco|Collin|Private|29|Locomotor disability|10|5|2025|Signal
+1062|Chloe Young|61|22|10|1965|657 Maple Ave|Frisco|Collin|Government|18|Vision impaired|26|4|1992|Signal
+1063|Tyler Thomas|57|14|10|1969|928 Elm St|Denton|Denton|Private|8|Locomotor disability|24|6|2003|None
+1064|Chloe Martin|38|13|9|1987|546 Birch St|Dallas|Dallas|Self-employed|10|Locomotor disability|22|11|2005|Signal
+1065|Hannah Adams|49|19|5|1977|988 Ash Ave|Frisco|Collin|Government|13|Vision impaired|12|6|2009|Signal
+1066|Lauren King|22|21|2|2004|450 Maple Ave|Denton|Denton|Private|11|Locomotor disability|5|11|2019|None
+1067|Matthew Wilson|23|17|12|2002|618 Elm St|Dallas|Dallas|Business|8|Fit|7|9|2023|None
+1068|Avery Baker|39|14|11|1987|668 Poplar St|Denton|Denton|Business|9|Vision impaired|7|1|1997|Signal
+1069|Joshua Young|42|10|9|1984|948 Birch St|Denton|Denton|Self-employed|9|Fit|15|11|2017|None
+1070|Daniel Anderson|37|19|3|1989|822 Maple Ave|Denton|Denton|Private|29|Vision impaired|25|3|2001|Signal
+1071|Joshua Walker|41|9|1|1985|801 Ash Ave|Dallas|Dallas|Student|8|Locomotor disability|9|6|1993|None
+1072|Sarah White|27|9|10|1999|273 Oak St|Denton|Denton|Government|5|Fit|26|6|2010|Signal
+1073|Matthew Smith|48|1|7|1978|342 Maple Ave|Dallas|Dallas|Student|4|Locomotor disability|10|8|2020|Speeding
+1074|Joshua Scott|44|12|10|1981|184 Elm St|Plano|Collin|Business|29|Vision impaired|26|12|2000|Speeding
+1075|Samantha Allen|60|17|7|1966|366 Elm St|Frisco|Collin|Self-employed|20|Fit|13|8|1998|None
+1076|Hannah Thomas|44|14|2|1982|462 Pine Rd|Plano|Collin|Self-employed|21|Fit|10|5|2017|Parking
+1077|Tyler Baker|54|10|2|1972|675 Birch St|Dallas|Dallas|Government|25|Fit|20|1|2014|Parking
+1078|Joshua Wright|34|6|5|1992|379 Ash Ave|Plano|Collin|Private|17|Vision impaired|26|8|2012|Speeding
+1079|Olivia Scott|33|9|3|1993|927 Birch St|Plano|Collin|Self-employed|14|Fit|19|1|2009|None
+1080|Chloe Rodriguez|28|26|1|1998|244 Cherry Ln|Plano|Collin|Government|20|Vision impaired|12|1|2023|Signal
+1081|Amanda Scott|43|7|10|1983|202 Cherry Ln|Denton|Denton|Student|28|Fit|28|11|2014|Parking
+1082|Emily Wilson|53|19|12|1973|818 Cedar Blvd|Denton|Denton|Self-employed|16|Locomotor disability|4|7|1991|Speeding
+1083|Rachel Thomas|55|20|3|1971|939 Birch St|Frisco|Collin|Student|8|Vision impaired|24|6|2016|Speeding
+1084|Logan Green|19|28|2|2007|425 Oak St|Denton|Denton|Private|28|Locomotor disability|7|9|2018|Signal
+1085|Logan Adams|32|8|3|2002|307 Birch St|Frisco|Collin|Government|1|Vision impaired|14|3|1994|Signal
+1086|Andrew King|41|1|10|1984|827 Elm St|Frisco|Collin|Government|19|Vision impaired|24|2|2007|Speeding
+1087|Olivia Clark|53|4|1|1973|117 Walnut Rd|Dallas|Dallas|Business|4|Fit|6|7|1996|Speeding
+1088|Rachel Smith|66|9|3|1960|622 Cedar Blvd|Denton|Denton|Government|30|Vision impaired|11|11|2018|Speeding
+1089|Justin Wilson|68|4|4|1958|163 Elm St|Plano|Collin|Self-employed|22|Locomotor disability|18|10|2008|None
+1090|Brandon Adams|71|9|7|1955|280 Poplar St|Frisco|Collin|Business|25|Locomotor disability|9|4|2021|Speeding
+1091|Sarah Jackson|28|18|10|1997|585 Pine Rd|Plano|Collin|Private|23|Fit|11|7|1999|Parking
+1092|Daniel Scott|23|8|1|2003|408 Pine Rd|Plano|Collin|Self-employed|15|Locomotor disability|19|6|2015|Speeding
+1093|Samantha Robinson|30|1|4|1996|281 Poplar St|Frisco|Collin|Private|28|Vision impaired|26|3|2020|Speeding
+1094|Emily Thompson|35|21|2|1991|119 Pine Rd|Plano|Collin|Student|4|Vision impaired|27|8|2012|Parking
+1095|Hannah Thompson|62|5|7|1964|613 Cherry Ln|Denton|Denton|Student|27|Locomotor disability|20|4|1995|Parking
+1096|Emily Baker|63|9|2|1963|579 Birch St|Frisco|Collin|Self-employed|10|Fit|11|8|2022|Signal
+1097|Ethan Miller|34|12|5|1992|123 Oak St|Dallas|Dallas|Private|15|Fit|8|3|2015|None
+1098|Sophia Davis|28|9|8|1997|456 Maple Ave|Frisco|Collin|Student|20|Vision impaired|14|6|2020|Signal
+1099|Liam Wilson|40|5|11|1985|789 Pine Rd|Plano|Collin|Government|18|Locomotor disability|2|9|2012|Parking
+1100|Isabella Johnson|31|23|3|1995|321 Cedar Blvd|Denton|Denton|Business|25|Fit|19|12|2018|None
